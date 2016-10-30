@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>TravisCI.png</file>
+    </qresource>
+</RCC>
