@@ -15,6 +15,7 @@ The goal of this project is to have a clean Travis CI build, with specs:
  * Source: QDialog with Qt resource file
 
 More complex builds:
+ * Add OCLint: [travis_qmake_gcc_cpp14_qt5_oclint](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14_qt5_oclint)
  * Add QTest: [travis_qmake_gcc_cpp14_qt5_qtest](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14_qt5_qtest)
  * Add QtSvg: [travis_qmake_gcc_cpp14_qt5_qtsvg](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14_qt5_qtsvg)
 
