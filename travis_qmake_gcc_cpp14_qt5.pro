@@ -10,11 +10,12 @@ FORMS   += my_dialog.ui
 HEADERS += my_dialog.h
 RESOURCES += travis_qmake_gcc_cpp14_qt5.qrc
 
-# C++11
+# C++14
+CONFIG += c++14
 QMAKE_CXX = g++-5
 QMAKE_LINK = g++-5
 QMAKE_CC = gcc-5
-QMAKE_CXXFLAGS += -std=c++11
+QMAKE_CXXFLAGS += -std=c++14
 
 # Prevent Qt for failing with this error:
 # qrc_[*].cpp:400:44: error: ‘qInitResources_[*]__init_variable__’ defined but not used
