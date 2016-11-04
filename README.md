@@ -16,6 +16,7 @@ The goal of this project is to have a clean Travis CI build, with specs:
 
 More complex builds:
  * Add QTest: [travis_qmake_gcc_cpp14_qt5_qtest](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14_qt5_qtest)
+ * Add QtSvg: [travis_qmake_gcc_cpp14_qt5_qtsvg](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14_qt5_qtsvg)
 
 Less complex builds:
  * STL only: [travis_qmake_gcc_cpp14](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14)
